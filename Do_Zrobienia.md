@@ -41,3 +41,13 @@ System grup(groups)
 - Ustalanie wypłat
 - Limit wypłaty: 1000$
 - Maksymalna ilość grup: 5
+
+System pojazdów(vehicles)
+
+- Dostęp do pojazdu za pomocą kluczyków
+- Otwarty samochód nie równa się możliwości odpalenia pojazdu(kabelki)
+- Instalowanie dodatków takich jak: turbiny, filtry powietrza, itd.
+- Instalowanie dodatków wizualnych
+- Podpisywanie pod grupy
+- Sprzedawanie ich
+- Przekazanie kluczyka równa się udostępnienie pojazdu
