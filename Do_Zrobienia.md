@@ -43,6 +43,7 @@ System grup(groups)
 - Maksymalna ilość grup: 5
 
 System pojazdów(vehicles)
+========================================================================
 
 - Dostęp do pojazdu za pomocą kluczyków
 - Otwarty samochód nie równa się możliwości odpalenia pojazdu(kabelki)
