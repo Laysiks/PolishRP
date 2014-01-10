@@ -1,7 +1,9 @@
 ﻿Do zrobienia
 ========================================================================
 
-Dokument, w którym zapisywane będą rzeczy, które znajdą się(w teorii) w którejś wersji skryptu.
+Dokument, w którym zapisywane będą rzeczy, które znajdą się(w teorii) 
+w którejś wersji skryptu. Nie oznacza to, że są to priorytety - jest
+to spis rzeczy, które byłby by przydatne
 
 Podstawy skryptu(core)
 ========================================================================
@@ -78,3 +80,16 @@ System logów(logs system)
 
 - Zapisywanie kar, prywatnych wiadomości, czatu OOC i IC, ofert, dawania pieniędzy, ofert, itd.
 - Wyświetlanie najważniejszych rzeczy w profilu na forum
+
+System domów(houses system)
+========================================================================
+
+- Domy podpisywane pod grupy
+- Klucze do domu jako przedmiot
+- Możliwość wymiany zamka
+- Możliwość wynajmu
+- Własne interiory
+- Dzwonki do drzwi
+- Audio system
+- Alarmy przeciw pożarowe
+- Sejfy
