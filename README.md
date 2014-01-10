@@ -20,7 +20,7 @@ Założenia projektu
 ========================================================================
 
 Projekt został założony by:
-a) rozruszać Polską scenę MTA
-b) ukrócić wykorzystywanie nielegalnego, kradzionego kodu
-c) ściągnąć więcej graczy do MTA
+- rozruszać Polską scenę MTA
+- ukrócić wykorzystywanie nielegalnego, kradzionego kodu
+- ściągnąć więcej graczy do MTA
 
