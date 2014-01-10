@@ -93,3 +93,21 @@ System domów(houses system)
 - Audio system
 - Alarmy przeciw pożarowe
 - Sejfy
+
+System pożarów(fire system)
+========================================================================
+
+- Możliwość podpalania budynków
+- W przypadku posiadania alarmu informacja dla straży pożarnej
+- Palenie się budynku
+- Gaszenie za pomocą gaśnic oraz wozu strażackiego
+- Gdy pożar nie zostanie ugaszony budynek jest blokowany
+- Możliwość remontu budynku
+
+System chorób(disease system)
+========================================================================
+
+- Losowe występowanie chorób(grypa, przeziębienie, itd.)
+- Możliwość zakupu leku w aptece
+- Specyficzne efekty(kręcenie w głowie, utrata przytomności)
+- Możliwość diagnozy przez lekarza
