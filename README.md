@@ -1,7 +1,7 @@
-MTARP
+ï»¿MTARP
 =====
 
-Gamemode RP do gry Multi Theft Auto. Napisany w jêzyku LUA, oparty o bazê danych MySQL.
+Gamemode RP do gry Multi Theft Auto. Napisany w jÄ™zyku LUA, oparty o bazÄ™ danych MySQL.
 
 Autorzy
 ========================================================================
