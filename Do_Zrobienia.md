@@ -52,3 +52,29 @@ System pojazdów(vehicles)
 - Podpisywanie pod grupy
 - Sprzedawanie ich
 - Przekazanie kluczyka równa się udostępnienie pojazdu
+
+System zwłok(dead body system)
+========================================================================
+
+- Po śmierci pojawiają się zwłoki
+- Możliwość identyfikacji - Imię, nazwisko, wiek, itd. oraz sposób w jaki dana osoba zginęła.
+- Możliwość podnoszenia zwłok.
+- Przedmioty leżą przy zwłokach - można je podnieść
+
+System kar(warns system)
+========================================================================
+
+- Nadawanie ostrzeżenia(warn) o jakiejś treści
+- Blokowanie postaci
+- Admin Jail
+- Blokady biegania
+- Blokady prowadzenia pojazdów
+- Blokady broni
+- Blokady czatu OOC
+- Bany na czas określony lub nie
+
+System logów(logs system)
+========================================================================
+
+- Zapisywanie kar, prywatnych wiadomości, czatu OOC i IC, ofert, dawania pieniędzy, ofert, itd.
+- Wyświetlanie najważniejszych rzeczy w profilu na forum
