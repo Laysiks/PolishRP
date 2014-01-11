@@ -1,12 +1,13 @@
-﻿MTARP
-=====
+﻿PolishRP
+========
 
 Gamemode RP do gry Multi Theft Auto. Napisany w języku LUA, oparty o bazę danych MySQL.
 
 Autorzy
 ========================================================================
 
-- Seweryn "Neproify" Figura yamasaki3214@gmail.com
+- Seweryn "Neproify" Figura, yamasaki3214@gmail.com
+- "l0nger", l0nger.programmer@gmail.com
 
 Licencja
 ========================================================================
