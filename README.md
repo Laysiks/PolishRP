@@ -24,3 +24,12 @@ Projekt został założony by:
 - ukrócić wykorzystywanie nielegalnego, kradzionego kodu
 - ściągnąć więcej graczy do MTA
 
+Wymagania
+========================================================================
+- Hosting serwerów MTA
+- Baza danych Mysql
+- Obsługa zewnętrznych zapytań do bazy MySQL
+
+- Forum serwera postawione na jednym z obsługiwanych silników forum
+- Wgrane panele
+- Obsługa zewnętrznych zapytań do bazy MySQL
