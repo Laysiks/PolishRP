@@ -1,5 +1,5 @@
 --[[
-	@desc: (todo)
+	@desc: Modul inicjacji polaczenia z baza MySQL, oraz kilka funkcji do jej oblusgi
 	@file: s_db.lua
 	@author: l0nger <l0nger.programmer@gmail.com>
 	@link package: https://github.com/l0nger/PolishRP
