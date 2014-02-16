@@ -1,0 +1,9 @@
+<meta>
+	<script src="s_db.lua" type="server" />
+	
+	<export function="getHandler" type="server" />
+	<export function="query" type="server" />
+	<export function="affectedRows" type="server" />
+	<export function="insertID" type="server" />
+	<export function="escapeString" type="server" />
+</meta>
