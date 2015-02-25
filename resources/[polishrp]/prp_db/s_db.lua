@@ -21,7 +21,7 @@ local root=getRootElement()
 -- -------------------------------------------------------
 
 local function connectWithDB()
-	db_handle=mysql_connect(SQL_HOST, SQL_USER, SQL_PASSWD, SQL_DB, SQL_PORT
+	db_handler=mysql_connect(SQL_HOST, SQL_USER, SQL_PASSWD, SQL_DB, SQL_PORT
 	if not db_handler then
 		outputServerLog("Brak polaczenia z baza danych!")
 	else 
